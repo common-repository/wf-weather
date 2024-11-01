@@ -1,0 +1,104 @@
+.wf-weather-forecast.col-3 .container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.wf-weather-forecast.col-3 .container .forecast {
+  text-align: center;
+  width: 33%;
+}
+
+.forecast .title {
+  display: block;
+  font-size: 100%;
+}
+
+.forecast .section {
+  border-bottom: 1px solid #eee;
+  padding: 20px 0px;
+}
+
+.forecast .section .title {
+  font-size: 80%;
+}
+
+.forecast .data {
+  font-size: 75%;
+}
+
+.forecast .section img {
+  display: block;
+  margin: 0 auto;
+}
+
+.forecast .temp.min {
+  color: blue;
+}
+
+.forecast .temp.max {
+  color: red;
+}
+
+.forecast .bar-container {
+  display: block;
+  position: relative;
+  width: 80%;
+  margin: 0 auto;
+  border: 1px solid #eee;
+}
+
+.forecast .bar-container .bar {
+  background-color: #6495ED;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  z-index: 0;
+}
+
+.forecast .bar-container .percentage {
+  font-size: 75%;
+  z-index: 1;
+  position: relative;
+}
+
+.forecast .section .rainfall-probability .title {
+  font-size: 70%;
+  margin-bottom: 5px;
+}
+
+.rainfall-probability {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.rainfall-probability .bar-container {
+  border-bottom: 0px;
+}
+
+.rainfall-probability .bar-container:last-child {
+  border-bottom: 1px solid #eee;
+}
+
+.copyright small a {
+  text-decoration: none;
+  border-bottom: none;
+  font-size: 75%;
+}
+
+.wf-weather-text h2.wf-title {
+  margin-bottom: 0px;
+}
+
+.wf-weather-text small.date {
+  font-size: 55%;
+}
+
+@media (min-width: 1440px) {
+  .wf-weather-text img.today {
+      display: block;
+      float: left;
+      padding-right: 1rem;
+      padding-bottom: .5rem;
+  }
+}

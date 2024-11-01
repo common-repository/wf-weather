@@ -1,0 +1,136 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WF Weather\n"
+"POT-Creation-Date: 2022-08-19 14:00+0200\n"
+"PO-Revision-Date: 2016-02-15 11:13+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wf-weather.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/wf_weather_settings.php:27
+msgid "WF Weather Settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: includes/wf_weather_settings.php:28 includes/wf_weather_settings.php:47
+msgid "WF Weather"
+msgstr ""
+
+#: includes/wf_weather_settings.php:48
+msgid "Available Shortcodes"
+msgstr ""
+
+#: includes/wf_weather_settings.php:80
+msgid "General Options"
+msgstr ""
+
+#: includes/wf_weather_settings.php:87
+msgid "API-Username"
+msgstr ""
+
+#: includes/wf_weather_settings.php:99
+msgid "API-Password"
+msgstr ""
+
+#: includes/wf_weather_settings.php:111
+msgid "Cache Expiration"
+msgstr ""
+
+#: includes/wf_weather_settings.php:181
+msgid "Here you can change some stuff or leave the default options."
+msgstr ""
+
+#: includes/wf_weather_shortcodes.php:76
+msgid "Outlook for the next days"
+msgstr ""
+
+#: includes/wf_weather_shortcodes.php:87
+msgid "Temperature"
+msgstr ""
+
+#: includes/wf_weather_shortcodes.php:94
+msgid "Rainfall"
+msgstr ""
+
+#: includes/wf_weather_shortcodes.php:95
+msgid "mm"
+msgstr ""
+
+#: includes/wf_weather_shortcodes.php:97
+msgid "Probability"
+msgstr ""
+
+#: includes/wf_weather_shortcodes.php:99
+msgid "6 am"
+msgstr ""
+
+#: includes/wf_weather_shortcodes.php:102
+msgid "12 am"
+msgstr ""
+
+#: includes/wf_weather_shortcodes.php:105
+msgid "6 pm"
+msgstr ""
+
+#: includes/wf_weather_shortcodes.php:108
+msgid "12 pm"
+msgstr ""
+
+#: includes/wf_weather_shortcodes.php:116
+msgid "Thunderstorm"
+msgstr ""
+
+#: includes/wf_weather_shortcodes.php:123
+msgid "Freeze"
+msgstr ""
+
+#: includes/wf_weather_shortcodes.php:131
+msgid "http://www.provinz.bz.it/wetter"
+msgstr ""
+
+#: includes/wf_weather_shortcodes.php:131
+msgid "© Landeswetterdienst Südtirol"
+msgstr ""
+
+#: includes/wf_weather_shortcodes.php:180
+msgid "Tomorrow’s weather"
+msgstr ""
+
+#: includes/wf_weather_shortcodes.php:183
+msgid "Today’s weather"
+msgstr ""
+
+#: includes/wf_weather_shortcodes.php:193
+msgid "General weather situation"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.wunderfarm.com/plugins/wf-weather"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"WF Weather is the `wunderfarm-way` to show Weather information on your "
+"website."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "wunderfarm"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.wunderfarm.com"
+msgstr ""
